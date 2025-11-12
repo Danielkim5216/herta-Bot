@@ -6,7 +6,8 @@
 
 > ## 스타레일 정보 검색 디스코드 봇
 Node.js Enka.Network/MiHoMo API 래퍼인 StarRail.js를 사용하고 있습니다. 
-
+> [!NOTE] HERTA-BOT         
+herta-bot is discord bot that search user information or character information etc.. of honkai star rail
 
 ## 명령어
 - `/uidsearch` : uid로 유저 정보 출력
